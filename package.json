@@ -14,7 +14,8 @@
     }
   ],
   "dependencies": {
-    "lodash": "= 3.10.1"
+    "lodash": "= 3.10.1",
+    "pretty-error": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "*",
